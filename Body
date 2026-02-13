@@ -1,9 +1,0 @@
-<div id="lockOverlay">
-    <div class="lock-box">
-        <h2>أدخلي الرمز السري للدخول ❤️</h2>
-        <input type="password" id="passInput" placeholder="DDMMYYYY" maxlength="8">
-        <button onclick="checkPass()">فتح القلب</button>
-        <p id="errorMsg" style="color: #ff4d6d; margin-top: 10px; display: none;">الرمز غير صحيح، حاولي ثانية يا Wedody..</p>
-    </div>
-</div>
-
